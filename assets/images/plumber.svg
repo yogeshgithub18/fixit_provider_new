@@ -1,0 +1,22 @@
+<svg id="_416388_artist_brush_paint_painter_tool_icon" data-name="416388_artist_brush_paint_painter_tool_icon" xmlns="http://www.w3.org/2000/svg" width="32.339" height="26.269" viewBox="0 0 32.339 26.269">
+  <g id="Brush" transform="translate(0 13.134)">
+    <g id="Group_772" data-name="Group 772">
+      <path id="Path_2686" data-name="Path 2686" d="M13.134,26c-6.157,0-5.272,7.072-10.1,7.072A4.722,4.722,0,0,1,0,32.062s1.576,7.072,9.093,7.072c5.608,0,10.1-2.313,10.1-7.072A6.021,6.021,0,0,0,13.134,26Z" transform="translate(0 -26)" fill="#cdcfce"/>
+    </g>
+  </g>
+  <g id="Paint" transform="translate(0 17.421)">
+    <g id="Group_773" data-name="Group 773">
+      <path id="Path_2687" data-name="Path 2687" d="M5.06,40.3A3.821,3.821,0,0,0,9.1,37.271a4.507,4.507,0,0,1-3.031,1.01c.834-.834,1-3.046,1.026-3.8-.975,1.485-1.995,2.785-4.065,2.785A4.722,4.722,0,0,1,0,36.261s1.295,5.724,7.045,6.862A4.936,4.936,0,0,0,9.1,41.313,4.659,4.659,0,0,1,5.06,40.3Z" transform="translate(0 -34.486)" fill="#cdcfce"/>
+    </g>
+  </g>
+  <g id="Tube_1_" transform="translate(14.153 9.094)">
+    <g id="Group_774" data-name="Group 774">
+      <path id="Path_2688" data-name="Path 2688" d="M31.047,18l-3.031,5.051,4.041,4.041,5.052-3.031Z" transform="translate(-28.016 -18.001)" fill="#cdcfce"/>
+    </g>
+  </g>
+  <g id="Handle_1_" transform="translate(17.184)">
+    <g id="Group_775" data-name="Group 775">
+      <path id="Path_2689" data-name="Path 2689" d="M42.1,0c-3.031,0-8.083,9.094-8.083,9.094l6.062,6.061s9.093-5.052,9.093-8.083C49.171,6.062,43.109,0,42.1,0Z" transform="translate(-34.016)" fill="#cdcfce"/>
+    </g>
+  </g>
+</svg>

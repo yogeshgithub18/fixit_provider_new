@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "895584567497",
+    "project_id": "fixit-343f5",
+    "storage_bucket": "fixit-343f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895584567497:android:8adcfd6d87106e53628d18",
+        "android_client_info": {
+          "package_name": "com.obydaFixit.fixitClient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895584567497-71c4lhho9u26i4qjn2vp8pl9vsl59fqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obydaFixit.fixitClient",
+            "certificate_hash": "9bbaa65389093540b6286814f17047e9748e98d9"
+          }
+        },
+        {
+          "client_id": "895584567497-f9r4mklr1685pf67ajbollcef486ij8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obydaFixit.fixitClient",
+            "certificate_hash": "3af06b785b35fc7e1cde7d0c58b331d37f5333a9"
+          }
+        },
+        {
+          "client_id": "895584567497-ltoqstlrs0e46djuto6o05aoum93hmgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obydaFixit.fixitClient",
+            "certificate_hash": "59481bb8f63a72830c24de90417a387bce200988"
+          }
+        },
+        {
+          "client_id": "895584567497-poejebaollc22qmq3jqd4i9eptpen2fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obydaFixit.fixitClient",
+            "certificate_hash": "0f6b618033c56408c85b0e5638999fcacbbfeaf6"
+          }
+        },
+        {
+          "client_id": "895584567497-vfpsj0ncqhtte5k5qca0fk28dg1qr1oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCILb_rfvJEBls2jnfvvyzeotJHIoMV9c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895584567497-vfpsj0ncqhtte5k5qca0fk28dg1qr1oj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895584567497-0258g8accsjs7i68bbd6f01ecl6vul5o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.obydaFixit.fixitProvider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895584567497:android:73f495fc40ca9c1d628d18",
+        "android_client_info": {
+          "package_name": "com.obydaFixit.fixitProvider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895584567497-2nk5nlljd1tudlcfnng6ukafojc91ufv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obydaFixit.fixitProvider",
+            "certificate_hash": "841c8acfa37cf1fbc0e35eb5238b79a30998895f"
+          }
+        },
+        {
+          "client_id": "895584567497-qrftufghsrfu5qoolkfdbutevjjududm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obydaFixit.fixitProvider",
+            "certificate_hash": "9bbaa65389093540b6286814f17047e9748e98d9"
+          }
+        },
+        {
+          "client_id": "895584567497-u05cpc2jq3njnbub63d3rofv89in98kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obydaFixit.fixitProvider",
+            "certificate_hash": "3af06b785b35fc7e1cde7d0c58b331d37f5333a9"
+          }
+        },
+        {
+          "client_id": "895584567497-vfpsj0ncqhtte5k5qca0fk28dg1qr1oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCILb_rfvJEBls2jnfvvyzeotJHIoMV9c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895584567497-vfpsj0ncqhtte5k5qca0fk28dg1qr1oj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895584567497-0258g8accsjs7i68bbd6f01ecl6vul5o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.obydaFixit.fixitProvider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
